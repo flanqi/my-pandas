@@ -1,0 +1,4 @@
+AK,F,1910,Mary,14
+AK,M,1920,Annie,12
+AK,F,1980,Anna,10
+AK,F,1940,Elsie,6

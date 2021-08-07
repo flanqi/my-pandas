@@ -1,0 +1,5 @@
+AK,F,1910,Elsie,6
+AK,F,1910,Lucy,6
+AK,F,1910,Dorothy,5
+AK,F,1911,Mary,12
+AK,F,1911,Margaret,7
